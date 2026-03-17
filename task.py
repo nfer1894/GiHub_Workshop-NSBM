@@ -11,7 +11,7 @@ def add_task(title):
     }
     tasks.append(task)
     save_tasks(tasks)
-    print(f"Task added: '{title}'")
+    print(f"Success: task '{title}' has been added.")
 
 
 def list_tasks():
