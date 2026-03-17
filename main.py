@@ -36,7 +36,7 @@ def run():
         command = parts[0].lower()
 
         if command == "quit":
-            print("Goodbye!")
+           print("Exiting Task Manager... Goodbye!")
             break
 
         elif command == "list":
