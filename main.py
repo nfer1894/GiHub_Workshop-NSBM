@@ -1,6 +1,8 @@
 from task import add_task, list_tasks, complete_task, remove_task
 
-WELCOME_MESSAGE = "Welcome to Task Manager CLI! Upeka"
+
+WELCOME_MESSAGE = "Welcome to Task Manager CLI! — Built by Upeka"
+
 
 
 def show_help():
