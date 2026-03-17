@@ -18,7 +18,7 @@ Commands:
 
 def run():
     print("=" * 40)
-    print(WELCOME_MESSAGE)
+    print(WELCOME_MESSAGE = "Welcome to Task Manager CLI! — Built by Jayamantha")
     print("=" * 40)
     show_help()
 
