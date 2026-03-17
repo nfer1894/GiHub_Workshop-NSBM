@@ -1,6 +1,6 @@
 from task import add_task, list_tasks, complete_task, remove_task
 
-WELCOME_MESSAGE = "Welcome to Task Manager CLI! Nikilaaaaa"
+WELCOME_MESSAGE = "Welcome to Task Manager CLI! Nimesh's Task Manager helps you keep track of your tasks efficiently."
 
 
 def show_help():
